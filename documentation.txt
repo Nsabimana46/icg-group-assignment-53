@@ -1,0 +1,24 @@
+ DOCUMENTATION
+ USER OF DOCUMENTATION
+
+ The system can describe the problems of current system. The system can be used to train the employees TO know the products that are in the stock,
+ The system will keep all the information for the customers,products and employees. How to add or delete the records and how to run the software.
+  hardware requirement will be needed for entering the data such as keyboard,
+ printer for printing out the customer's receipt and central processing unit for running the programs.
+ Software will be needed for keeping the customer data as well employees such as spreadsheet and anti-virus for protecting the data and operating system which will ontrol all the systems
+ All the problem have been solved by the current system.
+
+
+ TECHNICAL DOCUMENTATION
+
+The system has been already tested therefore the employee should know how to use the current system.
+  example he/she must know how the applicatio works, listing/coding work, minimum memory requirement etc.
+ Actually it applies to all hardware requirement and software requirement as well. 
+The system allows customer and employee  to get service online. The current system have been tested and there was no problem.
+ if there would be a problem we have to update  the new system. All the business objectives have been sucessed because of the current system has fast service and high technology.
+ Improvement of the business are achieved and customer can get full information anytime and the records are kept.
+ The current system has definetely solved  All the computer objectives by creating database for keeping all the information on the computer and speadsheet that reduced accuracy errors.
+ The current system helped the business to run fast.
+
+
+
